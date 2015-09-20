@@ -12,3 +12,6 @@ In this configuration file, I've made some alterations like changing the command
 If you'd like to use this file as a global configuration file, put it in: **/etc/tmux.conf**
 
 If you'd like to use this file as a personal configuration file to override any existing global file: **/home/username/.tmux.conf**
+
+### stats.sh
+This small script was my first attempt at Unix scripting a LONG time ago. It does nothing but clears the screen and prints some system information. I only make this file available for those of you who were once in my position of wanting to script but had no place to start. I believe this file is a wonderful place to start. Download it, learn from it, hack it and use it. The only way you're going to learn is by DOING. So take, and DO.
