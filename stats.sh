@@ -15,6 +15,11 @@
 #
 # Ta da! Instant script. Yes, it's that easy. Now hack away!
 #
+# This file tested successful on both Debian 7 'Wheezy' and 8 'Jessie'.
+# This custom config file created by DarkBunneh
+# Last update: Sunday September 20 4:40PM
+# http://RobertYannetta.com
+#
 clear
 echo Server Stats [A beginners test script]
 echo
