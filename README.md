@@ -15,3 +15,6 @@ If you'd like to use this file as a personal configuration file to override any 
 
 ### stats.sh
 This small script was my first attempt at Unix scripting a LONG time ago. It does nothing but clears the screen and prints some system information. I only make this file available for those of you who were once in my position of wanting to script but had no place to start. I believe this file is a wonderful place to start. Download it, learn from it, hack it and use it. The only way you're going to learn is by DOING. So take, and DO.
+
+*** bashrc
+My personal .bashrc file for Debian 8. This builds upon the default .bashrc by adding 256-color mode, colorizing the prompt,  and adding many aliases that I use the most. Very useful if you ask me. Use it if you wish.
