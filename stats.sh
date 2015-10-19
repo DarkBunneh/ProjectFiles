@@ -17,7 +17,7 @@
 #
 # This file tested successful on both Debian 7 'Wheezy' and 8 'Jessie'.
 # This custom config file created by DarkBunneh
-# Last update: Sunday September 20 4:40PM
+# Last update: Monday October 19 12:35AM
 # http://RobertYannetta.com
 #
 clear
@@ -41,10 +41,10 @@ echo
 echo Users Currently Logged In:
 who
 echo
-# echo List Of Previous Logins:
-# last
-# echo
-# echo
+echo List Of Previous Logins:
+last
+echo
+echo
 echo Disk Statistics:
 df -h
 echo
