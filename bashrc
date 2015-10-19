@@ -1,3 +1,8 @@
+# This custom .bashrc file works fine on both Debian 7 'Wheezy' and 8 'Jessie'.
+# This custom config file created by DarkBunneh
+# Last update: Monday October 19 12:23AM
+# http://RobertYannetta.com
+
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
