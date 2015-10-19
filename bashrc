@@ -92,7 +92,7 @@ alias h='htop -d 5'
 alias s='screen -q -U'
 alias t='tmux new -s $HOSTNAME -n $USER'
 #
-alias gm='apt-get update && apt-get -y upgrade'
+alias gm='apt-get update && apt-get -y -f upgrade'
 alias sync='sync; echo 3 > /proc/sys/vm/drop_caches'
 alias stats='clear && df -h && free -th && w && arp'
 alias a='arp-scan --interface=eth0 192.168.0.0/24'
