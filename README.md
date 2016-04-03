@@ -1,4 +1,6 @@
-# UPDATE: Jan 9, 2016. This is my _final_ commit and push to **GitHub**. My cancer has consumed as much of me as it can and I am now unable to keep any of these files updated further. I am bedridden and unable to move without assistance. My time is short. Please, take these files for what they are and enjoy them. Don't ever stop learning. Don't ever stop hacking them. Live up to your potential. And if you don't know what your potential is, keep working until you truly surprise yourself. There it is. Be proud of it, you've earned it.
+# UPDATE: Jan 9, 2016.
+
+### This is my _final_ commit and push to **GitHub**. My cancer has consumed as much of me as it can and I am now unable to keep any of these files updated further. I am bedridden and unable to move without assistance. My time is short. Please, take these files for what they are and enjoy them. Don't ever stop learning. Don't ever stop hacking them. Live up to your potential. And if you don't know what your potential is, keep working until you truly surprise yourself. There it is. Be proud of it, you've earned it.
 
 # OTHER NOTES
 
